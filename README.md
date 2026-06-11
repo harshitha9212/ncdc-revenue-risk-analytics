@@ -1,4 +1,4 @@
-# tapcms-afzalpur-revenue-risk-analytics
+# Tapcms-Afzalpur-Revenue-Risk-Analytics
 
 ## Project Overview
 Predictive financial and risk analytics for agricultural cooperative infrastructure.
